@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Alvaro 👋 </h1>
 
-<h3 align="center"> Currently I am studying Computer Science at University of Indonesia. I'm also very interested in Web Development!</h3>
+<h3 align="center"> Currently I am studying Computer Science at University of Indonesia. </h3>
 
 <div align = "center">
 
